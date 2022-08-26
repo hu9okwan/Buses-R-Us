@@ -14,7 +14,7 @@ This application was created as a final project for CPSC 210 at UBC.
 
 ## Screenshots
 <div>
-<img src="./screenshots/BusesAreUs-Basic.png" width="330" height="600" />
-<img src="./screenshots/BusesAreUs-StationSelected.png" width="330" height="600" />
-<img src="./screenshots/BusesAreUs-Arrivals.png" width="330" height="600" />
+<img src="./screenshots/BusesAreUs-Basic.png" width="300" height="500" />
+<img src="./screenshots/BusesAreUs-StationSelected.png" width="300" height="500" />
+<img src="./screenshots/BusesAreUs-Arrivals.png" width="300" height="500" />
 </div
