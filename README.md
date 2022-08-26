@@ -11,3 +11,10 @@ This application was created as a final project for CPSC 210 at UBC.
 1. Navigate to /out/production/BusesAreUs_Phase2 within this repo and download the APK file. 
 2. Connect your Android device to your computer and copy the APK file into a folder on your device.
 3. Search for the file location on your device and tap to install.
+
+## Screenshots
+<div>
+<img src="./screenshots/BusesAreUs-Basic.png" width="330" height="600" />
+<img src="./screenshots/BusesAreUs-StationSelected.png" width="330" height="600" />
+<img src="./screenshots/BusesAreUs-Arrivals.png" width="330" height="600" />
+</div
